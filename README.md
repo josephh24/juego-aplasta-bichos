@@ -8,5 +8,5 @@ juego sencillo en processing
 
 ### Controles
 
-[i] = iniciar juego
+[i] = iniciar juego <br/>
 click izquierdo o derecho sobre el bicho
